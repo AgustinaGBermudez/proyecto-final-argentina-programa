@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta tttp-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="widht=device-width, initial-scale=1.0">
+    <title>Proyecto Final Argentina programa 4.0</title>
+	<style>
+	  body{
+	     background-color: white;
+		 }
+		 
+		div{
+	     background-color: #C4E6F4;
+		 border: 1px solid black;
+		 padding:12px;
+		 margin: 0 auto;
+		 }
+		 
+		fieldset {
+		  margin- bottom: 15px;
+		  }
+	   
+		h3{
+	    background-color : #20A9E1;
+		padding: 5px;
+		border: 20px;
+		font-weight: bold;
+		}
+	</style>
+
+</head>
+
+<body>
+
+<div>
+    <h1>Lillie Peck</h1>
+
+    <img src="https://randomuser.me/api/portraits/women/67.jpg" alt="Esta es una imagen de perfil del CV" height="90px" width="90px"/>
+
+    <h2>Perfil</h2>
+    <p>Soy una joven apasionada por la eficiencia en el manejo de tareas administrativas. Con 2 años de experiencia laboral, he adquirido habilidades en gestión documental, organización y atención al cliente. Estoy constantemente buscando nuevos desafíos y me esfuerzo por superar las expectativas.</p>
+    <fieldset>
+    <h3>Datos de contacto</h3>
+    <ul type="square">
+        <li>Teléfono: (258) 693-6603</li>
+        <li>Mail: lillie.peck@example.com</li>
+        <li>Fecha de nacimiento: 9/3/1984</li>
+        <li>Dirección: 8887 Green Rd</li>
+    </ul>
+	</fieldset>
+	
+	<fieldset>
+	<h3>Experiencia Laboral</h3>
+    <ul type="square">
+        <li><strong>Auxiliar administrativa</strong>
+		<p>Borcelle S.A - 2020/2022</p>
+		Manejo de documentación y archivo, atención al cliente, organización y planificación de citas y reuniones, manejo de redes sociales, ayuda en tareas contables y financieras.</li>
+        <li><strong>Prácticas auxiliar administrativa</strong>
+		 <p>Salford y Asociados  - 2018/2020</p>
+		 Manejo de documentación y archivo, atención al cliente, organización y planificación de citas y reuniones, manejo de redes sociales.
+		</li>
+    </ul>
+	</fieldset>
+	
+	<fieldset>
+	<h3>Estudios</h3>
+	<ul type="square">
+        <li><strong>Grado Superior en Administración de Empresas</strong> <p>
+		Instituto de Madrid - Actualmente cursando.</p>
+		</li>
+        <li><strong>Titulación de ESO y Bachillerato. </strong><p>
+		Instituto de Vallecas - 2016/2018</p>
+		</li>
+	
+    </ul>
+	</fieldset>
+	
+	<fieldset>
+	<h3>Habilidades</h3>
+	<ul type="square">
+        <li>Manejo de paquete office.</li>
+        <li>Inglés B2.</li>
+		<li>Manejo de redes sociles.</li>
+		<li>Ofimática</li>
+		<li>Atención al cliente</li>
+		<li>Organización</li>
+		<li>Planificación</li>
+    </ul>
+	</fieldset>
+	
+	<h2> <strong> Espero que nos pongamos en contacto pronto.</strong></h2>
+</div>
+</body>
+</html>
